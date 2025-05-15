@@ -16,9 +16,6 @@ To import the database:
         Go to Import Progress TAB
         CLICK on Start Import
         
-Database Dump link:
-https://github.com/dlulanep/InventorytrackingDB_ERD.git
-
 Screenshot or link to your ERD:
     https://github.com/dlulanep/InventorytrackingDB_ERD.git
 
