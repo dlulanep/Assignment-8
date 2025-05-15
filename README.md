@@ -13,9 +13,13 @@ To import the database:
         Select Data Import/Restore
         Select Import from Dump Project Folder and navigate to location where the Database Dump is located
         Select Database Object to Import: Inventorytrackingdb
-        Start Import
+        Go to Import Progress TAB
+        CLICK on Start Import
+        
+Database Dump link:
+https://github.com/dlulanep/InventorytrackingDB_ERD.git
 
-Screenshot or link to your ERD
+Screenshot or link to your ERD:
     https://github.com/dlulanep/InventorytrackingDB_ERD.git
 
 
